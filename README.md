@@ -3,6 +3,10 @@
 My practice repo, organized by the **four pillars** of my Wildlife Studios internship
 study track (`right-way-to-use-ai/study-track.md`).
 
+> **Progress map:** [`study-map.md`](./study-map.md) tracks every DSA topic (W3Schools
+> roadmap + my EM's 1:1 list) with its status. It's the source of truth for what's
+> covered vs. pending — quizzes and the study track read from it.
+
 | Folder | Pillar | What lives here |
 |---|---|---|
 | [`cpp/`](./cpp) | **C++** | Language fundamentals & experiments: typing, polymorphism/`typeid`, numeric limits in memory, C/C++ definitions. |

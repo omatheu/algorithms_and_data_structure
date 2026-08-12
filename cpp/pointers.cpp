@@ -3,7 +3,7 @@
 int main () {
     int x = 1000;
     int y = x;
-    int& z = x;
+    int& z = x; // z é uma referência para x, ou seja, z é um apelido para x.
 
     std::cout << "the value of z is>: "<< z << "\n";
 
